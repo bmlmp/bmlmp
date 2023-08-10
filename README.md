@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bmlmp
-- 👀 American Federalism, State Constitutions, Public Policy
+- 👀 Federalism, Bureaucracy, Public Policy
 - 🌱 I’m currently learning Event History Analysis
 - 📫 How to reach me barbaram.pontes@gmail.com
 
