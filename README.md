@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bmlmp
 - 👀 Federalism, Bureaucracy, Public Policy
-- 🌱 I’m currently learning Event History Analysis
+- 🌱 I’m currently learning Similarity Index
 - 📫 How to reach me barbaram.pontes@gmail.com
 
 <!---
